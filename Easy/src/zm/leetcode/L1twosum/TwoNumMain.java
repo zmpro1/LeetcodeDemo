@@ -1,4 +1,4 @@
-package zm.leetcode.twosum;
+package zm.leetcode.L1twosum;
 
 import java.util.HashMap;
 import java.util.Map;
